@@ -44,7 +44,7 @@ JDBC/
 
 Make sure your `user` table is created as follows:
 
-```sql
+sql
 CREATE TABLE user (
   user_id INT PRIMARY KEY,
   name VARCHAR(100),
