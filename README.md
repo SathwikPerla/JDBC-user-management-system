@@ -18,30 +18,7 @@ This project is a simple **Java-based User Management System** using **JDBC** an
 
 ## 📁 Project Structure
 
-JDBC-user-management-system/
-│
-├── src/                            # All your .java source files
-│   ├── Main.java
-│   └── operations/
-│       ├── InsertUser.java
-│       ├── FetchUsers.java
-│       ├── UpdateUser.java
-│       ├── DeleteUser.java
-│       ├── FetchUserById.java
-│       └── DBConnection.java
-│
-├── lib/                            # Your external libraries
-│   └── mysql-connector-j-9.4.0.jar
-│
-├── out/                            # (Auto-created during compilation)
-│   └── (All .class files go here)
-│
-├── jdbc_project.jar                # Final JAR file for execution
-│
-├── README.md                       # Project explanation
-├── .gitignore                      # Files/folders to ignore in git
-└── LICENSE                         # (Optional) if you want to add a license
-
+<img width="1388" height="1171" alt="image" src="https://github.com/user-attachments/assets/83e6ca6f-0552-4c28-9ebd-29209c989a61" />
 
 ## ⚙️ Prerequisites
 
