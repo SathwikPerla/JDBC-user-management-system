@@ -66,7 +66,7 @@ Then run it like this:
 
 java -cp .:lib/mysql-connector-j-9.4.0.jar:jdbc_project.jar Main
 
-##✅ Features
+## ✅ Features
 Add new users with details like name, email, gender, phone, DOB, and password.
 
 View all users stored in the database.
